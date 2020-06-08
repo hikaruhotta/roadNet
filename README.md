@@ -3,3 +3,6 @@ The interconnected society we live in is highly dependent on roads for transport
 
 In this project, we investigated automatic road network generation using satellite imagery. Our aim was to develop a deep neural network that is robust enough to generate segmentations of roads from both urban and rural satellite images. 
 
+For a more detailed explanation, refer to our paper in the main repository, labelled "CS_231N_Paper.pdf".
+
+**Creating the UNet
